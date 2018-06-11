@@ -9,4 +9,3 @@ end
 #puts "prints a blank board when the board array is empty"
 board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
-
